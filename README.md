@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# Kunal Raghav  
+<!-- # Kunal Raghav  
 [![Twitter Badge](https://img.shields.io/badge/-@KunalRaghav-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/stephen_noso)](https://twitter.com/_Kunal_Raghav_) 
 
 
@@ -19,7 +19,7 @@ I'm Kunal Raghav, I'm a software engineer 👨‍💻 who is passionate about mo
 
 
 ---
-⭐️ From [KunalRaghav](https://github.com/KunalRaghav)
+⭐️ From [KunalRaghav](https://github.com/KunalRaghav) -->
 
 <!--
 [![Medium Badge](https://img.shields.io/badge/-@KunalRaghav-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@KunalRaghav/)](https://medium.com/@KunalRaghav/)
