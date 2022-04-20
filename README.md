@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-<!-- ### [live site](link) 
-![image](link) -->
+### [live site](link) 
+![image](link)
 
 I'm Chukwunonso stephen Nwabueze, a JavaScript Developer who loves solving problems with codes.
 <h3>Connect with Me </h3>
