@@ -4,8 +4,7 @@
 <!-- ### [live site](link) 
 ![image](link) -->
 
-I'm Stephen Nonso Nwabueze, a JavaScript Developer who enjoys the process of using codes to solve problems. As a result, I look forward in developing visually stunning applications with user interaction that will assist businesses in growing and optimizing their UX.
-
+I'm Chukwunonso stephen Nwabueze, a JavaScript Developer who loves solving problems with codes.
 <h3>Connect with Me </h3>
 <p>
 <a href="https://twitter.com/Stephen_noso" ><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
